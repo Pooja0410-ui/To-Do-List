@@ -21,6 +21,7 @@ A simple and stylish To-Do List application built using **HTML**, **CSS**, and *
 📁 to-do-list/
 ├── index.html # Main HTML file
 ├── style.css # Styles for the list and buttons
+├── script.js # JavaScript logic for adding/removing tasks
 └── README.md # Project description
 
 ## 🔧 How to Use
